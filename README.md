@@ -1,4 +1,4 @@
-![Mr. Robot CTF](mr-robot-ctf.png)
+![Mr. Robot CTF](assets/mr-robot-ctf.png)
 
 # Mr. Robot CTF – Write-up
 
