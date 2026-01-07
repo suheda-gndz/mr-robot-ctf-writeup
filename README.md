@@ -1,3 +1,5 @@
+![Mr. Robot CTF](mr-robot-ctf.png)
+
 # Mr. Robot CTF – Write-up
 
 ⚠️ **Disclaimer**  
